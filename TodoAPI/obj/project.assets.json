@@ -8198,23 +8198,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/rsmith/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\rsmith\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rsmith/AppmanTutorial/TodoAPI/TodoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\TodoAPI.csproj",
       "projectName": "TodoAPI",
-      "projectPath": "/Users/rsmith/AppmanTutorial/TodoAPI/TodoAPI.csproj",
-      "packagesPath": "/Users/rsmith/.nuget/packages/",
-      "outputPath": "/Users/rsmith/AppmanTutorial/TodoAPI/obj/",
+      "projectPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\TodoAPI.csproj",
+      "packagesPath": "C:\\Users\\rsmith\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/rsmith/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rsmith\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8273,7 +8269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

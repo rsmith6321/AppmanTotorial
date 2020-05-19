@@ -13,4 +13,6 @@ public class TodoItem{
         get;
         set;
     }
+
+    public string Secret {get; set;}
 }

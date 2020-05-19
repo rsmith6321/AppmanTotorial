@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ctoTr11OJJKc+mHRe5htsMGSTw7qE6rhjJyBY3CmoRokFBxaEmzA19+wYdNsGop2RHMmk3SHoFPkQycIr3VgHA==",
+  "dgSpecHash": "8hjmlDQOye6eh3CZnl9Hfc892CjFRHO78WDjUDXruB2jNVZi7UljGYhFzG4AcY8r0IriD83PXOu4x8npW7ZoyA==",
   "success": true,
-  "projectFilePath": "/Users/rsmith/AppmanTutorial/helloworld/helloworld.csproj",
+  "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
