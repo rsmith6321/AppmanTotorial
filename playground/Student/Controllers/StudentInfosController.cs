@@ -82,7 +82,7 @@ namespace Student.Controllers
             _context.StudentInfos.Add(studentInfo);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetStudentInfo", new { id = studentInfo.Id }, studentInfo);
+            return CreatedAtAction(nameof(GetStudentInfo), new { id = studentInfo.Id }, studentInfo);
         }
 
         // DELETE: api/StudentInfos/5

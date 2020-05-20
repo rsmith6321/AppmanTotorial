@@ -5,4 +5,6 @@ public class StudentInfo{
 
     public string University{ get; set;}
 
+    public string Subject{get; set;}
+
 }
