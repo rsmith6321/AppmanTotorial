@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj": {}
+    "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\Student.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj": {
+    "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj",
+        "projectUniqueName": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\Student.csproj",
         "projectName": "Student",
-        "projectPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj",
+        "projectPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\Student.csproj",
         "packagesPath": "C:\\Users\\rsmith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\obj\\",
+        "outputPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rsmith\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,21 @@
               "target": "Package",
               "version": "[3.1.4, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[3.1.3, )"
             }

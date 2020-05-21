@@ -27,14 +27,20 @@ namespace Student
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<StudentContext>(opt => 
-            opt.UseInMemoryDatabase("StudentList"));
+
+            /*connect to database*/
+
+            // services.AddMvc();
+            // services.AddEntityFrameworkNpgsql().AddDbContext<StudentContext>(opt => 
+            // opt.UseNpgsql(Configuration.GetConnectionString("MyWebApiConection")));
             
-            services.AddDbContext<UniversityContext>(opt => 
-            opt.UseInMemoryDatabase("UniversityList"));
+                services.AddDbContext<MyWebApiContext>(opt => 
+                opt.UseInMemoryDatabase("StudentList"));
+
+                 services.AddDbContext<UniversityContext>(opt => 
+                 opt.UseInMemoryDatabase("UniversityList"));
         
             services.AddControllers();
-
 
         }
 
