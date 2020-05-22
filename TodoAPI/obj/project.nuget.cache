@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rjt6enSNdP0e57478ASE+lLEobzFBcKrmdHNI5RAZu0c1rvYc0wnDQ8kqkfaz4hEv2SFi+aSVHzZZEfSh993Rw==",
+  "dgSpecHash": "2UK6eH8Wa9LBqkHuJUsM+9UwhwcKni1T+3RRGaTNWT/BZGPSfhVSLB0S7hxkjrvHW9xB0EBjrX+0a7y7GaZKLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\TodoAPI.csproj",
+  "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\TodoAPI\\TodoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

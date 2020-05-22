@@ -8203,11 +8203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\TodoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\TodoAPI\\TodoAPI.csproj",
       "projectName": "TodoAPI",
-      "projectPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\TodoAPI.csproj",
+      "projectPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\TodoAPI\\TodoAPI.csproj",
       "packagesPath": "C:\\Users\\rsmith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\todoapi\\obj\\",
+      "outputPath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\TodoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rsmith\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8269,7 +8269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

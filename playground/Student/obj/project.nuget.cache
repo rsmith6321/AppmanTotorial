@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i6qZATQEL2EbAB0D/Oji9jZnJoTeskv6/T99Mcwe67he2v4qn5g2Bejj935yW7jwbWlIOgT6ATEF9cexUu2naA==",
+  "dgSpecHash": "JG0nTLFl4GB4lV43aHdJmF7rPbQLMjNjTmjR35ZJHZDSaiXVVyOqO/2XHZgzeLw15oz1H5mYgZCPaMaY2sqqYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj",
   "expectedPackageFiles": [
@@ -169,8 +169,7 @@
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
