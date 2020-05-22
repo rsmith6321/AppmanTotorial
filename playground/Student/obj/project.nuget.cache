@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUe5TAj4DEud+9lVRNiWyEME/5n1pFG2U/S4PLGV5f1Tw0hq0caaL9SW/+Jv0lLLIc5x6h2QLcDGDLrFg/wlnw==",
+  "dgSpecHash": "i6qZATQEL2EbAB0D/Oji9jZnJoTeskv6/T99Mcwe67he2v4qn5g2Bejj935yW7jwbWlIOgT6ATEF9cexUu2naA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\student\\Student.csproj",
+  "projectFilePath": "C:\\Users\\rsmith\\Documents\\GitHub\\AppmanTutorial\\playground\\Student\\Student.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -169,7 +169,8 @@
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\rsmith\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\rsmith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
