@@ -2,6 +2,7 @@
 
 ใช้postmanในการทำ testing http method ต่างๆ
 
+
 ภาพรวมตอนนี้คือ 
 - ในส่วนของ model สร้าง Student Class และ University Class และสามารถเชื่อม dbContext ของทั้งสองclass และสร้าง controller ของทั้งสองclassเรียบร้อยแล้ว
 - สามารถใช้ ้ http method ตามที่โจทย์ให้มาได้ทั้ง2classแล้ว(get(),get(id),post(),put(),delete()) แต่ไม่มีการqueryข้อมูลตามrelationที่โจทย์ให้มา (รูป Diag2)
@@ -16,4 +17,6 @@
 
 folder อื่นเป็นtutorialที่ลองทำเพื่อศึกษา .netcore ละในplaygroundจะเป็นโฟลเดอร์ที่ใช้ยำเพื่อเรียนรู้ webApi ของ asp.net ซึ่งตอนนี้พังไปแล้ว
 
-สามารถดูรูปdiagramที่ผมลองเขียนปรพกอบได้ใน folder picture 
+สามารถดูรูปdiagramที่ผมลองเขียนประกอบได้ใน folder picture 
+
+ขอบคุณครับ
